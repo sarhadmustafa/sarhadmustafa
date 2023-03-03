@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Engineer
 -----------------
 
-I am a computer Engineer who loves to learn ideas and work on innovative systems
+I am a computer Engineer who loves to learn new ideas and work on innovative systems
 
 * 🌍  I'm based in Erbil
 * ✉️  You can contact me at [sarhadmustafa12@gmail.com](mailto:sarhadmustafa12@gmail.com)
